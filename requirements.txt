@@ -1,0 +1,6 @@
+pip3 install requests
+pip3 install bs4 
+pip3 install wget
+pip3 install moc
+pip3 install mpv
+pip3 install colored
